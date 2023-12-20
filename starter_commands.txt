@@ -1,0 +1,11 @@
+configuration setting and commands
+
+1. uncomment .gitignore file if needed be
+2. after getting it cloned fron repo
+3. required two cli space 
+-----one for the php 
+-----second for the node to run vite environment
+4. run [ php artisan serve ] in PHP
+5. run [ npm run dev ] in node
+6. install db or run [ php artisan migrate ]
+7. if hosting on another server don't forget to run [ php artisan key:generate ] & [ php artisan migrate ]
